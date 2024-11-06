@@ -1,15 +1,13 @@
 import React from 'react';
-import "../node_modules/bootstrap/dist/css/bootstrap.min.css";
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import Tempapp from './Component/Tempapp';
 
-const  App = () =>{
+
+const App = () => {
   return (
-    <> 
-    <h1> welcome to my class </h1>
-   <button className="btn btn-success"> thapa technical</button> 
-    
+    <>
+  
     </>
-
-
   );
 };
 
